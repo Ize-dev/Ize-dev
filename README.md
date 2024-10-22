@@ -7,7 +7,9 @@ Frameworks & Tools: Unity, Godot, .NET, Android Development, Web Development
 Technologies: Game Development, Embedded Systems, Backend Services, Full-Stack Development
 
 🚀 Current Projects:
+
 🎮 Developing a retro game launcher with 3D Coverflow in Unity
+
 🎯 Creating Dart game simulations with dynamic modes and player customization
 
 🌱 Always learning:
