@@ -5,7 +5,7 @@ I'm a passionate software developer with a strong focus on building efficient an
 
 Languages: C/C++, C#, Java, JavaScript, HTML, PHP
 
-Frameworks & Tools: Unity, Godot, .NET, Android Development, Web Development
+Frameworks & Tools: Unity, Godot, .NET, Android Development, Web Development, Arduino / SBCs
 
 Technologies: Game Development, Embedded Systems, Backend Services, Full-Stack Development
 
