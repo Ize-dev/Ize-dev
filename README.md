@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Marco! 👋
+I'm a passionate software developer with a strong focus on building efficient and scalable solutions. With expertise in multiple programming languages, I enjoy diving into complex problems and turning ideas into fully functioning applications.
 
-<!--
-**Ize-dev/Ize-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 What I work with:
+Languages: C/C++, C#, Java, JavaScript, HTML, PHP
+Frameworks & Tools: Unity, Godot, .NET, Android Development, Web Development
+Technologies: Game Development, Embedded Systems, Backend Services, Full-Stack Development
 
-Here are some ideas to get you started:
+🚀 Current Projects:
+🎮 Developing a retro game launcher with 3D Coverflow in Unity
+🎯 Creating Dart game simulations with dynamic modes and player customization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Always learning:
+I’m constantly improving my skills, learning new technologies, and diving into new challenges. Whether it's game development, backend systems, or web apps, I love to experiment with different tools and methods to find the most effective solutions.
+
+Feel free to check out my repositories, and let’s connect! 😄
